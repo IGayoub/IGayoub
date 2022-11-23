@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 - 💬 Ask me about Flutter, Web, Tech in general.
 - 📫 How to reach me: 
 - 😄 Pronouns: ...
-- ⚡ Fun fact: I am a IG Ayoub
+- ⚡ Fun fact: I am a IG ART
 
 <!-- 
 <img  alt="Github Stats" src="https://github-readme-stats.vercel.app/api?username=5cientist&show_icons=true&hide_border=true&theme=vue" />
