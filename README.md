@@ -17,13 +17,13 @@
 Here are some ideas to get you started:
 
 - 🔭 I'm working on Full-Stack Web Development and mobile application's
-- 🌱 I’m currently learning Flutter,React,vue.js
+- 🌱 I’m currently learning React,vue.js...
 - 👯 I’m looking to collaborate on web and mobile applications
 - 🤔 I’m looking for help with 
 - 💬 Ask me about Flutter, Web, Tech in general.
 - 📫 How to reach me: 
 - 😄 Pronouns: ...
-- ⚡ Fun fact: I am a 5CIENTIST
+- ⚡ Fun fact: I am a IG Ayoub
 
 
 <img  alt="Github Stats" src="https://github-readme-stats.vercel.app/api?username=5cientist&show_icons=true&hide_border=true&theme=vue" />
