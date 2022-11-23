@@ -40,7 +40,7 @@ Here are some ideas to get you started:
  
   <img src="https://camo.githubusercontent.com/cf001d2a684fad204e899dab911627fbe9180dbaf26f89c432f438a375e88e6a/68747470733a2f2f75706c6f61642e77696b696d656469612e6f72672f77696b6970656469612f636f6d6d6f6e732f7468756d622f642f64352f435353335f6c6f676f5f616e645f776f72646d61726b2e7376672f3132303070782d435353335f6c6f676f5f616e645f776f72646d61726b2e7376672e706e67" alt="css3" width="40" height="40"/> 
  
-   <img src="https://www.vectorlogo.zone/logos/php/php-ar21.svg" alt="js" width="40" height="40"/> 
+   <img src="https://www.vectorlogo.zone/logos/php/php-icon.svg" alt="js" width="40" height="40"/> 
   
    <img src="https://www.vectorlogo.zone/logos/laravel/laravel-ar21.svg" alt="nodejs" width="60" height="40"/> 
   
