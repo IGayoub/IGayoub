@@ -42,10 +42,8 @@ Here are some ideas to get you started:
  
    <img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" alt="js" width="40" height="40"/> 
   
-   <img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-horizontal.svg" alt="nodejs" width="60" height="40"/> 
+   <img src="https://www.vectorlogo.zone/logos/laravel/laravel-ar21.svg" alt="nodejs" width="60" height="40"/> 
   
-  <img src="https://camo.githubusercontent.com/8189f2ee1a17bae39d5d80aac35701add11c79eacc3a84eaf4971d63998e87a0/68747470733a2f2f63646e332e69636f6e66696e6465722e636f6d2f646174612f69636f6e732f6c6f676f732d616e642d6272616e64732d61646f62652f3531322f3236375f507974686f6e2d3531322e706e67" alt="python" width="40" height="40"/> 
- 
  <img alt="“Flutter”" src="https://camo.githubusercontent.com/114aa59f6bfe1ff7ef3444fbb224078eb6a32c43f0ed03a6c0c3e6df67e049ec/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f666c7574746572696f2f666c7574746572696f2d69636f6e2e737667" data-canonical-src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg"  width="40px" height="40" >
  
  
