@@ -25,11 +25,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: I am a IG Ayoub
 
-
+<!-- 
 <img  alt="Github Stats" src="https://github-readme-stats.vercel.app/api?username=5cientist&show_icons=true&hide_border=true&theme=vue" />
 
 <summary><h2><img src="https://emojis.slackmojis.com/emojis/images/1471045839/793/computerrage.gif?1471045839" align="center"
-                width="28" /> My Tools</h2></summary>
+                width="28" /> My Tools</h2></summary> -->
 
 <br>
 
